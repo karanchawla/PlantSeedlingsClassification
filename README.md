@@ -19,4 +19,4 @@ lrs = np.array([lr/9,lr/3,lr])
 learn.unfreeze()
 learn.fit(lrs, 3, cycle_len=2, cycle_mult=2)
 ```
-6. Used test time tranformations for higher accracy predicitions. 
+6. Used test time tranformations for higher accuracy predictions. 
