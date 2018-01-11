@@ -36,7 +36,7 @@ plt.imshow(img);
 ```
 
 
-![png](output_4_0.png)
+![png](../images/output_4_0.png)
 
 
 
@@ -129,7 +129,7 @@ learn.sched.plot()
 ```
 
 
-![png](output_13_0.png)
+[png](../images/output_13_0.png)
 
 
 
@@ -138,7 +138,7 @@ learn.sched.plot_lr()
 ```
 
 
-![png](output_14_0.png)
+![png](../images/output_14_0.png)
 
 
 
@@ -205,7 +205,7 @@ learn.sched.plot_lr()
 ```
 
 
-![png](output_17_0.png)
+![png](../images/output_17_0.png)
 
 
 
@@ -381,7 +381,7 @@ submission.to_csv('data/plantseeds/submission.csv', index=False)
 ```
 
 
-![png](output_27_0.png)
+![png](../images/output_27_0.png)
 
 
 
