@@ -19,4 +19,8 @@ lrs = np.array([lr/9,lr/3,lr])
 learn.unfreeze()
 learn.fit(lrs, 3, cycle_len=2, cycle_mult=2)
 ```
-6. Used test time tranformations for higher accuracy predictions. 
+6. Plot of loss function variation with iterations.
+
+![png](https://github.com/karanchawla/kaggle-dabble/blob/master/Images/Unknown-4)
+
+7. Used test time tranformations for higher accuracy predictions. 
